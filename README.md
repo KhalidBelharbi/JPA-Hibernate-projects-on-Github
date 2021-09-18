@@ -1,9 +1,9 @@
 # JPA-Hibernate-projects-on-Github
 This repo show a list of JPA / Hibernate directories published on Github. All the directories are accessible and open at the date of publication of this directory(18 Septembre 2021).
 
-dadrus/jpa-unit;https://api.github.com/repos/dadrus/jpa-unit\\
-datanucleus/javax.persistence;https://api.github.com/repos/datanucleus/javax.persistence\\
-ebean-orm/javax-persistence-api;https://api.github.com/repos/ebean-orm/javax-persistence-api\\
+dadrus/jpa-unit;https://api.github.com/repos/dadrus/jpa-unit
+datanucleus/javax.persistence;https://api.github.com/repos/datanucleus/javax.persistence
+ebean-orm/javax-persistence-api;https://api.github.com/repos/ebean-orm/javax-persistence-api
 anddegs/javax.persistence;https://api.github.com/repos/anddegs/javax.persistence
 rvowles/dtogen;https://api.github.com/repos/rvowles/dtogen
 tomdantuit/jpa-attribute-converter;https://api.github.com/repos/tomdantuit/jpa-attribute-converter
